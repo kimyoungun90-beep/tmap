@@ -1,0 +1,16 @@
+{
+  "name": "tmap-expense-webapp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev",
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
